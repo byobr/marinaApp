@@ -1,0 +1,26 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "nativeLanguage": "pt-br"
+    },
+    "jhipsterVersion": "4.14.5",
+    "baseName": "marinaWebApp2",
+    "clientFramework": "angular1",
+    "useSass": false,
+    "clientPackageManager": "yarn",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "databaseType": "sql_server",
+    "devDatabaseType": "sql_server",
+    "prodDatabaseType": "sql_server",
+    "applicationType": "monolith",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "pt-br",
+    "languages": [
+      "pt-br"
+    ],
+    "skipServer": true
+  }
+}
